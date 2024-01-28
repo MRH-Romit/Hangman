@@ -1,12 +1,11 @@
-#  Escape from Alien 
+#  Hangman Escape: Alien Edition
 
 ## Introduction
 
-Welcome to Escape from Alien ! The aliens have captured you and, instead of simply abducting you, they want to play a game to test your intelligence. Your life is at stake, and the only way to survive is by successfully guessing the secret word.
+Welcome to Hangman Escape: Alien Edition ! The aliens have captured you and, instead of simply abducting you, they want to play a game to test your intelligence. Your life is at stake, and the only way to survive is by successfully guessing the secret word.
 
 ## Overview
-
-Escape from Alien is a thrilling console-based game implemented in Python. The extraterrestrial beings have given you six chances to guess the hidden word. If you can unravel the mystery and guess all the letters correctly within those six attempts, you will earn your freedom and escape the clutches of the aliens.
+Hangman Escape: Alien Edition is a thrilling console-based game implemented in Python. The extraterrestrial beings have given you six chances to guess the hidden word. If you can unravel the mystery and guess all the letters correctly within those six attempts, you will earn your freedom and escape the clutches of the aliens.
 
 ## How to Play
 
